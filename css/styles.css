@@ -7,6 +7,7 @@ body {
 .text-muted {
     color: #bcbbbb;
 }
+
 .text-thin {
     font-weight: 100;
 }
@@ -14,6 +15,7 @@ body {
 .title-super {
     font-size: 60px;
 }
+
 .title-logo {
     margin-top: 10px;
 }
